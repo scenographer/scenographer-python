@@ -8,7 +8,7 @@ here = pathlib.Path(__file__).parent.resolve()
 long_description = (here / "README.md").read_text(encoding="utf-8")
 
 setup(
-    name="scenographer",
+    name="playwright-scenographer",
     version="1.0.0",
     description="""Playwright enables reliable end-to-end testing for modern web apps.
 This package brings in additional features to enable using WebExtensions.""",
